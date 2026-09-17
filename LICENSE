@@ -1,0 +1,21 @@
+Radar is a multi-licence repository of the Libre AI project.
+
+The licence for each file is declared through SPDX metadata and REUSE.toml:
+
+- EUPL-1.2: the Rust application workspace, the UI surface, the PostgreSQL
+  migrations, the database security manifest, the scripts, the end-to-end suite,
+  the agent-context configuration and the workflows under `.github/` —
+  first-party software and runtime policy by default;
+- Apache-2.0: the interoperability schemas under `schemas/`, the sample corpus
+  under `examples/`, and the generated design-system assets under
+  `surfaces/ui/assets/libre-ia/` — client-facing design output;
+- CC-BY-4.0: editorial documentation and first-party project records.
+
+Full licence texts are stored in LICENSES/.
+
+The organization-wide licensing policy — scope, precedence, historical grants,
+data and contribution rules — is the canonical one and is not restated here:
+https://github.com/libre-ai/libre-ai/blob/main/LICENSING.md
+
+Historical revisions previously published under MIT remain available under
+those terms. No previous licence grant is withdrawn.

@@ -1,0 +1,219 @@
+{
+  "schemaVersion": "code-recovery.v1",
+  "files": [
+    {
+      "sourceRepository": "feed-radar",
+      "sourceCommit": "21031cd7e3d51ba9eb40009c8a250e499c045289",
+      "sourcePath": ".gitignore",
+      "sourceBlob": "1e87d227bf38b992ea576705aaf0a74f162d17bc",
+      "destinationPath": ".gitignore",
+      "sha256": "aebb0db90c3074353e89d29d2e361aff74bfd297392366dacd2bae2db1159e52"
+    },
+    {
+      "sourceRepository": "feed-radar",
+      "sourceCommit": "21031cd7e3d51ba9eb40009c8a250e499c045289",
+      "sourcePath": "LICENSE",
+      "sourceBlob": "30dfda0714b4c184ba90714f51f9b24707928cc1",
+      "destinationPath": "LICENSE",
+      "sha256": "21dc3701d227a32c174b941d90a23da8caee32b2c4e6f3dfcdf7106c970eced9"
+    },
+    {
+      "sourceRepository": "feed-radar",
+      "sourceCommit": "21031cd7e3d51ba9eb40009c8a250e499c045289",
+      "sourcePath": "LICENSES/CC-BY-4.0.txt",
+      "sourceBlob": "13ca539f377dc705af32b8d2ce89262298ea2f06",
+      "destinationPath": "docs/source-licensing/feed-radar/LICENSES/CC-BY-4.0.txt",
+      "sha256": "d557539df68e771cc1eedcc91d13f70fca930e508d11eedcafa4b15db49e3744"
+    },
+    {
+      "sourceRepository": "feed-radar",
+      "sourceCommit": "21031cd7e3d51ba9eb40009c8a250e499c045289",
+      "sourcePath": "LICENSES/EUPL-1.2.txt",
+      "sourceBlob": "6d8cea430e21d06532225018850da91a3f44abf5",
+      "destinationPath": "LICENSES/EUPL-1.2.txt",
+      "sha256": "57fb42fbcd0b037ce528ed8f72f1ec095d67bc6825ecf1448ff39be1fe68a4b4"
+    },
+    {
+      "sourceRepository": "feed-radar",
+      "sourceCommit": "21031cd7e3d51ba9eb40009c8a250e499c045289",
+      "sourcePath": "REUSE.toml",
+      "sourceBlob": "2ce5b79617f66950fa2ae954876c747eaf4c7dbf",
+      "destinationPath": "REUSE.toml",
+      "sha256": "7dec4c1bca5b221caf90023ca23d0d371b7892fc9537f351d196eb438b7cd5c1"
+    },
+    {
+      "sourceRepository": "feed-radar",
+      "sourceCommit": "21031cd7e3d51ba9eb40009c8a250e499c045289",
+      "sourcePath": "apps/radar/README.md",
+      "sourceBlob": "de4d356aee845ec05dade5b533b1f2b7aa39984a",
+      "destinationPath": "apps/radar/README.md",
+      "sha256": "7b4de2a3ef775013e1167371bced62d80382c72087bdbc0a6dd7f982621f2453"
+    },
+    {
+      "sourceRepository": "feed-radar",
+      "sourceCommit": "21031cd7e3d51ba9eb40009c8a250e499c045289",
+      "sourcePath": "apps/radar/bun.lock",
+      "sourceBlob": "a4f276481bb580c8285584423f263f51ba1bb934",
+      "destinationPath": "apps/radar/bun.lock",
+      "sha256": "4fe1248753f4e54e10428a293a5d8eb6df184ef74709ca574c1c9c0cbab85e4c"
+    },
+    {
+      "sourceRepository": "feed-radar",
+      "sourceCommit": "21031cd7e3d51ba9eb40009c8a250e499c045289",
+      "sourcePath": "apps/radar/package.json",
+      "sourceBlob": "fa33944be90347d4a70e1ef0c94d9b388505376c",
+      "destinationPath": "apps/radar/package.json",
+      "sha256": "853347fc964b62af94d9ad903dd0979ce6336a8b3633895ead259c99ef4e8295"
+    },
+    {
+      "sourceRepository": "feed-radar",
+      "sourceCommit": "21031cd7e3d51ba9eb40009c8a250e499c045289",
+      "sourcePath": "apps/radar/src/evaluation/normalize-text.ts",
+      "sourceBlob": "d7d6b6c5abf143b69e6ab68168b0c7f73ee7a10e",
+      "destinationPath": "apps/radar/src/evaluation/normalize-text.ts",
+      "sha256": "1cbbed3643a957d08a3050826767e17de5966168508bafecaeee9fd3f5667674"
+    },
+    {
+      "sourceRepository": "feed-radar",
+      "sourceCommit": "21031cd7e3d51ba9eb40009c8a250e499c045289",
+      "sourcePath": "apps/radar/src/evaluation/rule-evaluator.test.ts",
+      "sourceBlob": "5bb7b0d8590384132cf9134337c7ba4e294b34dd",
+      "destinationPath": "apps/radar/src/evaluation/rule-evaluator.test.ts",
+      "sha256": "eb0b7f20d3fcd610e916e598a24624b795c77fba9e5a3f5504896a677eb003cb"
+    },
+    {
+      "sourceRepository": "feed-radar",
+      "sourceCommit": "21031cd7e3d51ba9eb40009c8a250e499c045289",
+      "sourcePath": "apps/radar/src/evaluation/rule-evaluator.ts",
+      "sourceBlob": "a4436b91972c41dc2f321be229ac88658a6dd2d1",
+      "destinationPath": "apps/radar/src/evaluation/rule-evaluator.ts",
+      "sha256": "7757fb194630229cead9c0f6c84a1e109338c1a4d3853e2a5635055909d5406c"
+    },
+    {
+      "sourceRepository": "feed-radar",
+      "sourceCommit": "21031cd7e3d51ba9eb40009c8a250e499c045289",
+      "sourcePath": "apps/radar/src/security/destination-policy.test.ts",
+      "sourceBlob": "ca996e89a0dec135a0e7b641eda04a6570105ad2",
+      "destinationPath": "apps/radar/src/security/destination-policy.test.ts",
+      "sha256": "584e13b29cf20aa883e5fcd521ec2c63b2d30f764c12d3a42a92b0fb34f75cc7"
+    },
+    {
+      "sourceRepository": "feed-radar",
+      "sourceCommit": "21031cd7e3d51ba9eb40009c8a250e499c045289",
+      "sourcePath": "apps/radar/src/security/destination-policy.ts",
+      "sourceBlob": "7cbf3dfb3c2db01ce7f1c927e47e8aae0823da75",
+      "destinationPath": "apps/radar/src/security/destination-policy.ts",
+      "sha256": "0c9250821e56703d1199f706460219dd3c76020abde3c350dcccd15a24ea2a34"
+    },
+    {
+      "sourceRepository": "feed-radar",
+      "sourceCommit": "21031cd7e3d51ba9eb40009c8a250e499c045289",
+      "sourcePath": "biome.json",
+      "sourceBlob": "67d9e432ed2c2d15684e882fc8176251caccf084",
+      "destinationPath": "biome.json",
+      "sha256": "b3766d017b822599756da2a376e09530891fc2380eecad32f56da6a334e574fb"
+    },
+    {
+      "sourceRepository": "feed-radar",
+      "sourceCommit": "21031cd7e3d51ba9eb40009c8a250e499c045289",
+      "sourcePath": "bun.lock",
+      "sourceBlob": "e63c13389db7f3a8601831a5c7ba09461c6b5e0d",
+      "destinationPath": "bun.lock",
+      "sha256": "1293cc913e6967a703d24382e9be729e1eaed7fd27d147b65e6266ec9a05c82d"
+    },
+    {
+      "sourceRepository": "feed-radar",
+      "sourceCommit": "21031cd7e3d51ba9eb40009c8a250e499c045289",
+      "sourcePath": "bunfig.toml",
+      "sourceBlob": "187aad3cc3469a3aa9a58a0979a0e10f61fce2b9",
+      "destinationPath": "bunfig.toml",
+      "sha256": "5da4d7eb4d1e5c1c37d487034e56773e8e1f568daec675b114c5257942f48342"
+    },
+    {
+      "sourceRepository": "feed-radar",
+      "sourceCommit": "21031cd7e3d51ba9eb40009c8a250e499c045289",
+      "sourcePath": "docs/apps/radar.md",
+      "sourceBlob": "e81dfdd0da5d2c29508e8bac4fe7ac1a50bec7a1",
+      "destinationPath": "docs/apps/radar.md",
+      "sha256": "536d4fcc29d3b9a75550731029e55037b481962ea4a62a8f04afb5b9545fe14e"
+    },
+    {
+      "sourceRepository": "feed-radar",
+      "sourceCommit": "21031cd7e3d51ba9eb40009c8a250e499c045289",
+      "sourcePath": "package.json",
+      "sourceBlob": "5787d3a1ff3c414afb707bd81ea5916f7a69322b",
+      "destinationPath": "package.json",
+      "sha256": "b20323352bc6cefc65b12774cea5b0890db650bac36d1c7eb382db963a27e929"
+    }
+  ],
+  "excluded": [
+    {
+      "source": "feed-radar",
+      "path": ".github/dependabot.yml",
+      "reason": "preserve current presentation and avoid activating historical agent/provider configuration"
+    },
+    {
+      "source": "feed-radar",
+      "path": ".github/workflows/ci.yml",
+      "reason": "preserve current presentation and avoid activating historical agent/provider configuration"
+    },
+    {
+      "source": "feed-radar",
+      "path": ".github/workflows/context-hygiene.yml",
+      "reason": "preserve current presentation and avoid activating historical agent/provider configuration"
+    },
+    {
+      "source": "feed-radar",
+      "path": "AGENTS.md",
+      "reason": "preserve current presentation and avoid activating historical agent/provider configuration"
+    },
+    {
+      "source": "feed-radar",
+      "path": "CLAUDE.md",
+      "reason": "preserve current presentation and avoid activating historical agent/provider configuration"
+    },
+    {
+      "source": "feed-radar",
+      "path": "README.md",
+      "reason": "preserve current presentation and avoid activating historical agent/provider configuration"
+    },
+    {
+      "source": "feed-radar",
+      "path": "project.v1.yaml",
+      "reason": "preserve current presentation and avoid activating historical agent/provider configuration"
+    }
+  ],
+  "status": "Source imported and locally tested; no publication or deployment performed.",
+  "adaptations": [
+    {
+      "path": ".gitignore",
+      "sourceSha256": "aebb0db90c3074353e89d29d2e361aff74bfd297392366dacd2bae2db1159e52",
+      "currentSha256": "fec51f0bb4ec0b79fa6b72d025b3880796087c1822978d68ebcb328f8196920b",
+      "change": "Local composition, build/test adaptation or current presentation; original source remains preserved."
+    },
+    {
+      "path": "REUSE.toml",
+      "sourceSha256": "7dec4c1bca5b221caf90023ca23d0d371b7892fc9537f351d196eb438b7cd5c1",
+      "currentSha256": "97aba74c077d4042c1f268afb112dcefeab6f44b798b2e0b69344fc1d062c88a",
+      "change": "Local composition, build/test adaptation or current presentation; original source remains preserved."
+    },
+    {
+      "path": "apps/radar/package.json",
+      "sourceSha256": "853347fc964b62af94d9ad903dd0979ce6336a8b3633895ead259c99ef4e8295",
+      "currentSha256": "aa6b1e89c5f727918df692a9a4a7d59855359270394c4235b8ad2720c3967650",
+      "change": "Local composition, build/test adaptation or current presentation; original source remains preserved."
+    },
+    {
+      "path": "bun.lock",
+      "sourceSha256": "1293cc913e6967a703d24382e9be729e1eaed7fd27d147b65e6266ec9a05c82d",
+      "currentSha256": "7d6d5df6e4534c76eede007c5a3a48f226695d6ac7663b2d7321d0ef9666e3bc",
+      "change": "Local composition, build/test adaptation or current presentation; original source remains preserved."
+    },
+    {
+      "path": "package.json",
+      "sourceSha256": "b20323352bc6cefc65b12774cea5b0890db650bac36d1c7eb382db963a27e929",
+      "currentSha256": "0ad2b3655e92025e60b7e588f1e9ecf89053c7c32dad966cf65c446aee7bde2a",
+      "change": "Local composition, build/test adaptation or current presentation; original source remains preserved."
+    }
+  ]
+}

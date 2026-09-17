@@ -13,6 +13,6 @@ Transformer vos abonnements à des sources d’information en une sélection que
 - Sélectionner des éléments avec des règles explicites et voir pourquoi chacun a été retenu.
 - Exporter cette sélection en conservant les sources et les dates utiles.
 
-**Aujourd’hui :** ce dépôt présente le projet sous forme de documentation ; aucune application n’est encore disponible.
+**Aujourd’hui :** le code et les tests sont présents ; leur intégration locale est en cours. Le [guide de développement](docs/DEVELOPMENT.md) décrit l’installation et les vérifications.
 
 [Catalogue](https://github.com/libre-ai/.github/blob/main/profile/README.fr.md) · [Contribuer](https://github.com/libre-ai/.github/blob/main/CONTRIBUTING.md) · [English](README.md) · [Licence CC BY 4.0](LICENSES/CC-BY-4.0.txt)

@@ -1,0 +1,39 @@
+# Bun / TypeScript
+node_modules/
+dist/
+coverage/
+bun-error.log
+
+# Rust
+target/
+
+# Toolchains and caches
+.tools/
+.cache/
+
+# Tests
+playwright-report/
+test-results/
+
+# Environment and secrets
+.env
+.env.*
+!.env.example
+
+# IDE / OS
+.DS_Store
+.idea/
+.vscode/
+*.swp
+
+# Agent-context configuration (never versioned — machine-local settings)
+.claude/
+
+# Logs
+*.log
+
+# Local code-recovery verification outputs.
+node_modules/
+coverage/
+playwright-report/
+test-results/
