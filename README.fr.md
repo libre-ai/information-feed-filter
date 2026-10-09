@@ -2,6 +2,9 @@
 <!-- SPDX-License-Identifier: CC-BY-4.0 -->
 <!-- Written for the retained Libre AI portfolio on 2026-09-14; earlier source documents and revisions retain their original licensing. -->
 
+> [!IMPORTANT]
+> **Archivé.** Ce dépôt n’est plus développé et est en lecture seule. Son périmètre a rejoint [libre-ai/personal-knowledge-workspace](https://github.com/libre-ai/personal-knowledge-workspace).
+
 # Libre AI Information Feed Filter
 
 Transformer vos abonnements à des sources d’information en une sélection que vous pouvez examiner et comprendre. Ce produit vise les personnes suivant plusieurs sources qui souhaitent choisir leurs lectures, sans recommandations inexpliquées.
