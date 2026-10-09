@@ -2,6 +2,9 @@
 <!-- SPDX-License-Identifier: CC-BY-4.0 -->
 <!-- Written for the retained Libre AI portfolio on 2026-09-14; earlier source documents and revisions retain their original licensing. -->
 
+> [!IMPORTANT]
+> **Archived.** This repository is no longer developed and is read-only. Its scope moved to [libre-ai/personal-knowledge-workspace](https://github.com/libre-ai/personal-knowledge-workspace).
+
 # Libre AI Information Feed Filter
 
 Turn information subscriptions into a selection you can inspect and understand. This proposed product is for people following several sources who want to decide what deserves their attention without relying on unexplained recommendations.
